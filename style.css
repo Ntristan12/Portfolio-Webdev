@@ -225,6 +225,11 @@ nav ul li a:hover{
     transition: tranform 0.5s;
 }
 
+.footer{
+    background-color: #000;
+    padding: 20px;
+    text-align: center;
+}
 .sicons a:hover{
     color: #9400d3;
     transform: translateY(-5px);
